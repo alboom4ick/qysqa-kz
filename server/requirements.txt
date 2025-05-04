@@ -1,0 +1,12 @@
+crewai
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+openai
+PyPDF2
+python-decouple
+fastapi
+uvicorn
+python-multipart
+boto3 

@@ -1,0 +1,245 @@
+{
+  "nodeType": "STACK",
+  "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 32,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "COURSE DETAILS"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e0b5187c-8b37-4be4-bf55-cd690c9c165e",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "241027e2-e247-4c54-86a4-b5b0c65246b9",
+                  "htmltext": "<b>Department:</b> Computer Science"
+                },
+                "icon": "🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c88f2ae2-b86b-4736-9160-5484e0c5380f",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "9cb3ec64-e163-49b9-a556-39c67e329d1e",
+                  "htmltext": "<b>Course Code:</b> CSS -228"
+                },
+                "icon": "📚"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "1c1f7f0b-6b150-c7bf-2d4c-b67c82c509b1",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "f1659b54-5739-4a3f-bb70-9cd430b01132",
+                  "htmltext": "<b>Course Instructor:</b> Asst. Prof. Dr. Mohammed Ala’anzy"
+                },
+                "icon": "👨‍🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "62d3d54b-d115-e6e6-913e-622aff04f3a7",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "0dbab701-6c78-42e9-bec6-4e5cedacd0f4",
+                  "htmltext": "<b>Office no.:</b> I -205"
+                },
+                "icon": "🏢"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "7627f1b4-174d-44d1-a90c-beb683a71add",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "dada27cf-e14c-4f83-bd76-b78affff7f3d",
+                  "htmltext": "<b>Lecture:</b> 5"
+                },
+                "icon": "🕒"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "d0e024e3-ad5e-4870-84b7-c9f82f88af1c",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "aad75ba0-9aa4-4d0e-bb5e-ffb74ae4b22d",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNDIRECTED GRAPHS"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "181a7832-6a80-49be-8437-8b916499ec58",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "PRIMARY",
+          "fontWeight": "NORMAL",
+          "htmltext": "1. Introduction\n2. Graph API\n3. Depth-first Search\n4. Breadth-first Search"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "14cfd027-8ed1-432c-8d18-62141ce1d851",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "8a4b95ed-1d71-4b3d-8fc1-19769a9687a5",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "GRAPH APPLICATIONS"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "a077c2c1-5e88-4132-b537-f2aa5f85acda",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "PRIMARY",
+          "fontWeight": "NORMAL",
+          "htmltext": "| Graph        | Vertex                     | Edge                       |\n|--------------|---------------------------|----------------------------|\n| Communication| telephone, computer       | fiber optic cable          |\n| Circuit      | gate, register, processor  | wire                       |\n| Mechanical   | joint, rod, beam          | spring                     |\n| Financial    | stock, currency           | transactions               |\n| Transportation| street intersection, airport | highway, airway route      |\n| Internet     | class C network           | connection                 |\n| Game board   | position                  | legal move                 |\n| Social       | Relationship              | person, actor, friendship, movie cast |\n| Neural Network| neuron                   | synapse                    |\n| Protein Network| protein                  | protein -protein interaction|\n| Molecule     | atom                       | bond                       |"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1881d644-e094-4e5f-96e7-15256be4a511",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "546e63fb-02d5-4444-b592-d62f47995229",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "GRAPH TERMINOLOGY"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "80e7ca73-aeb9-4a05-9864-6047d3f4aa34",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "PRIMARY",
+          "fontWeight": "NORMAL",
+          "htmltext": "- Path: Sequence of vertices connected by edges.\n- Cycle: Path whose first and last vertices are the same.\n- Two vertices are connected if there is a path between them."
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "4a857ff1-ec1e-4078-b1a6-5a537a6e85db",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "3367d718-0185-49ba-af47-05f323d761fc",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "SOME GRAPH-PROCESSING PROBLEMS"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "1d9c923b-1ec0-4fa6-9699-eb75b51d02f2",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "PRIMARY",
+          "fontWeight": "NORMAL",
+          "htmltext": "- Path: Is there a path between s and t?\n- Shortest path: What is the shortest path between s and t?\n- Cycle: Is there a cycle in the graph?\n- Euler tour: Is there a cycle that uses each edge exactly once?\n- Hamilton tour: Is there a cycle that uses each vertex exactly once?\n- Connectivity: Is there a way to connect all of the vertices?\n- MST: What is the best way to connect all of the vertices?\n- Biconnectivity: Is there a vertex whose removal disconnects the graph?\n- Challenge: Which of these problems are easy? difficult? intractable?"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "d1a5f88c-175e-4e71-a3ee-b7fb4db776b0",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "eec378f7-fbff-4177-939f-eeb88298b5f3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "LINKED LISTS, TREES, GRAPHS"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "9d767836-37e1-42d2-bb16-775e22f1043a",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "PRIMARY",
+          "fontWeight": "NORMAL",
+          "htmltext": "- A binary tree is a graph with some restrictions:\n  - The tree is an unweighted, directed, acyclic graph (DAG).\n  - Each node's in-degree is at most 1, and out-degree is at most 2.\n  - There is exactly one path from the root to every node.\n\n- A linked list is also a graph:\n  - Unweighted DAG.\n  - In/out degree of at most 1 for all nodes."
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "TEXT",
+      "id": "8bc843f4-622c-4a48-bc12-6458e024138f",
+      "fontSize": "SMALL",
+      "textAlign": "CENTER",
+      "fontColor": "SECONDARY",
+      "fontWeight": "NORMAL",
+      "htmltext": "Thank you!"
+    }
+  ],
+  "vertical": true
+}

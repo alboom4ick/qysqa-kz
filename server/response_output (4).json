@@ -1,0 +1,205 @@
+{
+  "nodeType": "STACK",
+  "id": "dbd73462-7618-4e51-91e4-23013ed09e89",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 102,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "7401712f-106a-4b5b-b421-fe0bf5256839",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "97653cfe-7dc7-4e03-bdc3-cf4aa35bc039",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0a28e49e-ebcf-4ccc-9f99-b8bdefae6b65",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "49154e3f-53e4-4e86-939f-baad5a3dce21",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "GRAPH APPLICATIONS:"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "b18bb3e6-0a15-4b3f-be3b-d767bbea0963",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "f9432bf9-858a-4acf-b1df-0023f31513f5",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "7de04031-b4e2-4596-8f61-a05ae128e895",
+                  "htmltext": "<b>Communication:</b> telephone, computer"
+                },
+                "icon": "📞"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e7b6a53c-e0fc-462c-a8bd-746596fa5ade",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "bb9423b5-e394-44b9-a554-ad87ca572df0",
+                  "htmltext": "<b>Circuit:</b> gate, register, processor"
+                },
+                "icon": "🔌"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "d4f31b92-16d5-4d58-ac4a-0bcd7abegah1",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "ac9331b5-f0e8-4d33-b720-b9e2f31a92e6",
+                  "htmltext": "<b>Mechanical:</b> joint, rod, beam, spring"
+                },
+                "icon": "⚙️"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "eefbc290-db4a-48b0-b5fa-04665cfe07c6",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "f1a75af6-09b8-4e20-b6d8-19ef0b81a6ef",
+                  "htmltext": "<b>Financial:</b> stock, currency"
+                },
+                "icon": "💵"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c23c1ddf-3702-4f53-9e33-c73467b93f5a",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "d104e223-5270-4321-a1b5-42fc01a51776",
+                  "htmltext": "<b>Transportation:</b> street intersection, airport"
+                },
+                "icon": "✈️"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "528c4e39-d397-4d63-abc7-653b2d0458a1",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "0a700ee8-bd58-4f77-981c-5474cee4c52b",
+                  "htmltext": "<b>Internet:</b> class C network"
+                },
+                "icon": "🌐"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "0682a95d-bcf2-482f-8cad-760bb3661bdd",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "7bdf6ec3-97f9-4f22-bc3e-de2757eead92",
+                  "htmltext": "<b>Game:</b> board position"
+                },
+                "icon": "🎮"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "9f65dc38-83ee-4e6c-aaf7-a6b70bfdb4f0",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "f79af56f-0c71-43ea-b8a0-02c37f00c0c2",
+                  "htmltext": "<b>Social:</b> Relationship"
+                },
+                "icon": "👥"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "32aa1f9a-4db4-472f-9288-97d18b859aa0",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "f305cfd7-e665-486a-851c-152254c27754",
+                  "htmltext": "<b>Neural Network:</b> neuron"
+                },
+                "icon": "🧠"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c99addf5-501f-43cd-8f48-a1a49f58e4d3",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "605bcda8-99c2-4788-bb94-51bc843c4d77",
+                  "htmltext": "<b>Protein Network:</b> protein"
+                },
+                "icon": "🧬"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1a2f0a28-bf69-4289-9183-a5c50451fcf8",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "080b7b6b-230e-445b-9d16-dfef3062beb3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNDIRECTED GRAPHS"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "244c2b80-2cbd-42b0-8c21-0e184efcdce1",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "DEFAULT",
+          "fontWeight": "REGULAR",
+          "htmltext": "Introduction"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "70f3574f-08e6-4798-9c74-b2398f104bbf",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "DEFAULT",
+          "fontWeight": "REGULAR",
+          "htmltext": "Graph API"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "eb8e4f93-bfd5-4459-b8e0-ebcf29e3fcf5",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "DEFAULT",
+          "fontWeight": "REGULAR",
+          "htmltext": "Depth-first Search"
+        },
+        {
+          "nodeType": "TEXT",
+          "id": "e1e99468-3b0e-4136-b1a9-b0343df92b40",
+          "fontSize": "MEDIUM",
+          "textAlign": "LEFT",
+          "fontColor": "DEFAULT",
+          "fontWeight": "REGULAR",
+          "htmltext": "Breadth-first Search"
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

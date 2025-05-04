@@ -1,0 +1,209 @@
+{
+  "nodeType": "STACK",
+  "id": "dbd73462-7618-4e51-91e4-23013ed09e89",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 102,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "7401712f-106a-4b5b-b421-fe0bf5256839",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "97653cfe-7dc7-4e03-bdc3-cf4aa35bc039",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II\nDepartment: Computer science\nCourse Code: CSS-228\nCourse Instructor: Asst."
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0a28e49e-ebcf-4ccc-9f99-b8bdefae6b65",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "49154e3f-53e4-4e86-939f-baad5a3dce21",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "ALGORITHM II\nDepartment: Computer science\nCourse Code: CSS-228\nCourse Instructor: Asst."
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "b18bb3e6-0a15-4b3f-be3b-d767bbea0963",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "TEXT",
+                "id": "-9166148585557881743",
+                "htmltext": "- Prof."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2919254283295658150",
+                "htmltext": "- Dr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-8158158163033923418",
+                "htmltext": "- Mohammed Ala’anzy\nOffice no.: G-405\nLecture: 3\n\nThank you!\nThank you!\n\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2901064472537261114",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-8350493187089549155",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nOPERATIONS ON A SEGMENT TREE\n3."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "971489839656421126",
+                "htmltext": "- Querying a Segment Tree:\nTo answer queries related to intervals:\n▪ Traverse the tree based on the query interval.\n▪ Combine information from relevant segments.\n▪ Common queries include finding the sum, minimum, or maximum within a \ngiven range.\n\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2901064472537261114",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "96878163629750721",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nSEGMENT TREE\n• Overview\n• Interval and queries\n• Segment tree definition\n• Benefits of Segment tree\n• Applications\n• Segment tree structure\n• Operations\n• Time complexity of Segment tree\n• Homework\n\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2901064472537261114",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-361760552422797830",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nST: NODE CREATION\npublic static Node root;\n  static class Node {\nint low, high, sum;\nNode left, right;\n  Node(int low, int high, int sum) {\nthis.low = low;\nthis.high = high;\nthis.sum = sum;\nthis.left = null;\nthis.right = null;\n}\n\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2901064472537261114",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-6708355451642670259",
+                "htmltext": "- Mohammed Ala’anzy SDU University\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "-2698835740954428870",
+                "htmltext": "- Mohammed Ala’anzy\nDr."
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "7128142105334677785",
+                "htmltext": "- Mohammed Ala’anzy\n Department of Computer Science \nSDU University\nSDU University\nSTRUCTURE OF A SEGMENT TREE\n▪ A segment tree is typically represented as a binary tree.\n▪ Each node in the tree corresponds to an interval or segment of the original \narray.\n▪ The root node represents the entire array, and each child node represents a \nsubinterval."
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1a2f0a28-bf69-4289-9183-a5c50451fcf8",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "080b7b6b-230e-445b-9d16-dfef3062beb3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "Additional Section or Topic"
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

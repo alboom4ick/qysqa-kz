@@ -1,0 +1,263 @@
+{
+  "nodeType": "STACK",
+  "id": "main-stack",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 102,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "TEXT",
+      "id": "text-1702455352",
+      "fontSize": "BIG",
+      "textAlign": "CENTER",
+      "fontColor": "PRIMARY",
+      "fontWeight": "BOLD",
+      "htmltext": "ALGORITHM II: UNION-FIND"
+    },
+    {
+      "nodeType": "TITLED_CONTAINER",
+      "id": "container-714806544",
+      "titleText": {
+        "nodeType": "TEXT",
+        "id": "text-714806544",
+        "fontSize": "MEDIUM",
+        "textAlign": "LEFT",
+        "fontColor": "PRIMARY",
+        "fontWeight": "BOLD",
+        "htmltext": "ОСНОВНЫЕ ТЕМЫ:"
+      },
+      "content": {
+        "nodeType": "STACK",
+        "id": "stack-3428389635",
+        "gap": 16,
+        "children": [
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-4256739387",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-4256739387",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Dynamic Connectivity"
+            },
+            "icon": "•"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-2787107460",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-2787107460",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Quick Find"
+            },
+            "icon": "•"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-1712017452",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-1712017452",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Quick Union"
+            },
+            "icon": "•"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-2035565716",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-2035565716",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Improvements"
+            },
+            "icon": "•"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-1756928408",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-1756928408",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Applications"
+            },
+            "icon": "•"
+          }
+        ],
+        "vertical": true
+      },
+      "divided": false
+    },
+    {
+      "nodeType": "TITLED_CONTAINER",
+      "id": "container-862598696",
+      "titleText": {
+        "nodeType": "TEXT",
+        "id": "text-862598696",
+        "fontSize": "MEDIUM",
+        "textAlign": "LEFT",
+        "fontColor": "PRIMARY",
+        "fontWeight": "BOLD",
+        "htmltext": "РЕАЛИЗАЦИЯ:"
+      },
+      "content": {
+        "nodeType": "STACK",
+        "id": "stack-1630070077",
+        "gap": 16,
+        "children": [
+          {
+            "nodeType": "TEXT",
+            "id": "text-3268151532",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "DEFAULT",
+            "fontWeight": "NORMAL",
+            "htmltext": "Data structure: Integer array id[] of length N"
+          },
+          {
+            "nodeType": "TEXT",
+            "id": "text-1888866022",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "DEFAULT",
+            "fontWeight": "NORMAL",
+            "htmltext": "Find operation: Check if two objects are in the same component"
+          },
+          {
+            "nodeType": "TEXT",
+            "id": "text-2096303858",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "DEFAULT",
+            "fontWeight": "NORMAL",
+            "htmltext": "Union operation: Merge components containing two objects"
+          },
+          {
+            "nodeType": "TEXT",
+            "id": "text-2576994789",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "DEFAULT",
+            "fontWeight": "NORMAL",
+            "htmltext": "Performance improvements: Weighting and Path Compression"
+          }
+        ],
+        "vertical": true
+      },
+      "divided": false
+    },
+    {
+      "nodeType": "TITLED_CONTAINER",
+      "id": "container-1326707183",
+      "titleText": {
+        "nodeType": "TEXT",
+        "id": "text-1326707183",
+        "fontSize": "MEDIUM",
+        "textAlign": "LEFT",
+        "fontColor": "PRIMARY",
+        "fontWeight": "BOLD",
+        "htmltext": "ПРИМЕНЕНИЯ:"
+      },
+      "content": {
+        "nodeType": "STACK",
+        "id": "stack-896044846",
+        "gap": 16,
+        "children": [
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-2966561944",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-2966561944",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Percolation"
+            },
+            "icon": "▪"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-2988417842",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-2988417842",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Games (Go, Hex)"
+            },
+            "icon": "▪"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-50040881",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-50040881",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Dynamic connectivity"
+            },
+            "icon": "▪"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-3901555483",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-3901555483",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Least common ancestor"
+            },
+            "icon": "▪"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "icon-text-2831660344",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "text-2831660344",
+              "fontSize": "MEDIUM",
+              "textAlign": "LEFT",
+              "fontColor": "DEFAULT",
+              "fontWeight": "NORMAL",
+              "htmltext": "Image processing"
+            },
+            "icon": "▪"
+          }
+        ],
+        "vertical": true
+      },
+      "divided": false
+    }
+  ],
+  "vertical": true
+}

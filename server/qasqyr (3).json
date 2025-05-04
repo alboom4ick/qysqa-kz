@@ -1,0 +1,199 @@
+{
+    "nodeType": "STACK",
+    "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+    "background": "DEFAULT",
+    "padding": "60px 40px",
+    "borderRadius": "8px",
+    "gap": 32,
+    "justifyContent": "SPACE_BETWEEN",
+    "children": [
+        {
+            "nodeType": "STACK",
+            "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+            "gap": 64,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "ALGORITHM II MOCK TEST"
+                },
+                {
+                    "nodeType": "TITLED_CONTAINER",
+                    "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+                    "titleText": {
+                        "nodeType": "TEXT",
+                        "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+                        "fontSize": "MEDIUM",
+                        "textAlign": "LEFT",
+                        "fontColor": "PRIMARY",
+                        "fontWeight": "BOLD",
+                        "htmltext": "TEST QUESTIONS"
+                    },
+                    "content": {
+                        "nodeType": "STACK",
+                        "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+                        "gap": 2,
+                        "children": [
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "e0b5187c-8b37-4be4-bf55-cd690c9c165e",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "241027e2-e247-4c54-86a4-b5b0c65246b9",
+                                    "htmltext": "<b>1. What is a digraph?</b>"
+                                },
+                                "icon": "❓"
+                            },
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "c88f2ae2-b86b-4736-9160-5484e0c5380f",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "9cb3ec64-e163-49b9-a556-39c67e329d1e",
+                                    "htmltext": "<b>2. Which of the following is NOT a property of directed graphs?</b>"
+                                },
+                                "icon": "❓"
+                            },
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "b134e269-df89-460d-bd0d-e1a1a5879473",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "715c9c9c-4fd8-4da5-9dee-7e3ef0fc3a7c",
+                                    "htmltext": "<b>3. Match the following terms with their definitions:</b>"
+                                },
+                                "icon": "❓"
+                            }
+                        ],
+                        "vertical": true
+                    },
+                    "divided": false
+                }
+            ],
+            "vertical": true
+        },
+        {
+            "nodeType": "STACK",
+            "id": "d0e024e3-ad5e-4870-84b7-c9f82f88af1c",
+            "background": "DEFAULT",
+            "gap": 32,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "aad75ba0-9aa4-4d0e-bb5e-ffb74ae4b22d",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "QUESTION DETAILS"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "b25085d9-1191-4ec6-8352-15f706a1b56f",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "5d8c215d-5875-4961-87d9-8e5f99fd19d2",
+                        "htmltext": "<b>1. What is a digraph?</b>"
+                    },
+                    "icon": "📖"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "f8bbfc8f-d3f2-462e-b04b-0329eb181b57",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "ddaf15b7-fc80-4131-8159-6c57938e7b66",
+                        "htmltext": "<b>Options:</b> 1) A set of vertices connected by undirected edges 2) A set of vertices connected by directed edges 3) A set of vertices with no edges 4) A set of vertices connected by weighted edges"
+                    },
+                    "icon": "📜"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "7cdee962-4f38-4140-ae37-d1ed7a12aea7",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "1f813301-0e62-4e03-abdc-ddb897438f38",
+                        "htmltext": "<b>Correct Answer:</b> 2"
+                    },
+                    "icon": "✅"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "28fd2cc4-ec96-4767-8016-c78187fc40f0",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "35688d2a-4b56-4f7f-9866-5a0eb6ea6c0e",
+                        "htmltext": "<b>2. Which of the following is NOT a property of directed graphs?</b>"
+                    },
+                    "icon": "📖"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>Options:</b> 1) Edges have a direction 2) Can have cycles 3) Can be weighted 4) All vertices are connected 5) Can have multiple edges"
+                    },
+                    "icon": "📜"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>Correct Answer:</b> 4"
+                    },
+                    "icon": "✅"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>3. Match the following terms with their definitions:</b>"
+                    },
+                    "icon": "📖"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>Terms:</b> 1) Vertex 2) Edge 3) Directed Graph 4) Cycle"
+                    },
+                    "icon": "📜"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>Definitions:</b> a) A connection between two vertices b) A closed path in a graph c) A point in a graph d) A graph with directed edges"
+                    },
+                    "icon": "📜"
+                },
+                {
+                    "nodeType": "ICON_TEXT",
+                    "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+                    "text": {
+                        "nodeType": "TEXT",
+                        "id": "f10c9214-57f7-48fc-bf77-722835237265",
+                        "htmltext": "<b>Correct Matches:</b> 1-c, 2-a, 3-d, 4-b"
+                    },
+                    "icon": "✅"
+                }
+            ],
+            "vertical": true
+        }
+    ],
+    "vertical": true
+}

@@ -1,0 +1,48 @@
+{
+    "quiz": [
+        {
+            "title": "What is the primary focus of the lecture titled 'Algorithm II'?",
+            "variants": [
+                "Data Structures",
+                "Dynamic Connectivity",
+                "Sorting Algorithms",
+                "Graph Theory"
+            ],
+            "correctVariantIndex": 1
+        },
+        {
+            "title": "Which of the following methods is used to connect two objects in the Dynamic-Connectivity Client?",
+            "variants": [
+                "connect()",
+                "union()",
+                "link()",
+                "merge()",
+                "join()"
+            ],
+            "correctVariantIndex": [
+                1
+            ]
+        },
+        {
+            "title": "Match the following terms with their definitions:",
+            "variants": [
+                "Quick-Union",
+                "Quick-Find",
+                "Dynamic Connectivity",
+                "Union-Find"
+            ],
+            "correctVariantIndex": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "matchWith": [
+                "A method to connect components using tree structures.",
+                "A method to find components using an array.",
+                "A system to manage connections between objects dynamically.",
+                "A data structure that supports union and find operations."
+            ]
+        }
+    ]
+}

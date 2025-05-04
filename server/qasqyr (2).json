@@ -1,0 +1,162 @@
+{
+    "nodeType": "STACK",
+    "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+    "background": "DEFAULT",
+    "padding": "60px 40px",
+    "borderRadius": "8px",
+    "gap": 32,
+    "justifyContent": "SPACE_BETWEEN",
+    "children": [
+        {
+            "nodeType": "STACK",
+            "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+            "gap": 64,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "ALGORITHM II MOCK TEST"
+                },
+                {
+                    "nodeType": "TITLED_CONTAINER",
+                    "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+                    "titleText": {
+                        "nodeType": "TEXT",
+                        "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+                        "fontSize": "MEDIUM",
+                        "textAlign": "LEFT",
+                        "fontColor": "PRIMARY",
+                        "fontWeight": "BOLD",
+                        "htmltext": "QUESTION 1"
+                    },
+                    "content": {
+                        "nodeType": "STACK",
+                        "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+                        "gap": 2,
+                        "children": [
+                            {
+                                "nodeType": "TEXT",
+                                "id": "question1",
+                                "htmltext": "What is a digraph?"
+                            },
+                            {
+                                "nodeType": "TEXT",
+                                "id": "option1",
+                                "htmltext": "1) A set of vertices connected pairwise by directed edges."
+                            },
+                            {
+                                "nodeType": "TEXT",
+                                "id": "option2",
+                                "htmltext": "2) A set of vertices connected by undirected edges."
+                            },
+                            {
+                                "nodeType": "TEXT",
+                                "id": "option3",
+                                "htmltext": "3) A collection of nodes without any edges."
+                            },
+                            {
+                                "nodeType": "TEXT",
+                                "id": "option4",
+                                "htmltext": "4) A set of vertices connected by weighted edges."
+                            }
+                        ],
+                        "vertical": true
+                    },
+                    "divided": false
+                }
+            ],
+            "vertical": true
+        },
+        {
+            "nodeType": "STACK",
+            "id": "d0e024e3-ad5e-4870-84b7-c9f82f88af1c",
+            "background": "DEFAULT",
+            "gap": 32,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "aad75ba0-9aa4-4d0e-bb5e-ffb74ae4b22d",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "QUESTION 2"
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "question2",
+                    "htmltext": "Which of the following is an example of a digraph?"
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option1",
+                    "htmltext": "1) Road network with one-way streets."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option2",
+                    "htmltext": "2) A tree structure."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option3",
+                    "htmltext": "3) A complete graph."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option4",
+                    "htmltext": "4) A set of points in a plane."
+                }
+            ],
+            "vertical": true
+        },
+        {
+            "nodeType": "STACK",
+            "id": "1881d644-e094-4e5f-96e7-15256be4a511",
+            "background": "DEFAULT",
+            "gap": 32,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "546e63fb-02d5-4444-b592-d62f47995229",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "QUESTION 3"
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "question3",
+                    "htmltext": "What is the purpose of topological sorting in digraphs?"
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option1",
+                    "htmltext": "1) To find the shortest path."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option2",
+                    "htmltext": "2) To order vertices in a linear sequence."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option3",
+                    "htmltext": "3) To identify cycles."
+                },
+                {
+                    "nodeType": "TEXT",
+                    "id": "option4",
+                    "htmltext": "4) To calculate the degree of vertices."
+                }
+            ],
+            "vertical": true
+        }
+    ],
+    "vertical": true
+}

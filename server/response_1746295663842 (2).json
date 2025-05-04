@@ -1,0 +1,363 @@
+{
+  "nodeType": "STACK",
+  "id": "dbd73462-7618-4e51-91e4-23013ed09e89",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 102,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "7401712f-106a-4b5b-b421-fe0bf5256839",
+      "gap": 64,
+      "children": [ 
+        {
+          "nodeType": "TEXT",
+          "id": "97653cfe-7dc7-4e03-bdc3-cf4aa35bc039",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "Формирование древнего человека"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0a28e49e-ebcf-4ccc-9f99-b8bdefae6b65",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "49154e3f-53e4-4e86-939f-baad5a3dce21",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "СТАДИИ ЭВОЛЮЦИИ:"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "b18bb3e6-0a15-4b3f-be3b-d767bbea0963",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "f9432bf9-858a-4acf-b1df-0023f31513f5",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "7de04031-b4e2-4596-8f61-a05ae128e895",
+                  "htmltext": "<b>Австралопитеки</b> (4–2 млн лет назад): прямохождение; Размер мозга — около 400–500 см³"
+                },
+                "icon": "🚶"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e7b6a53c-e0fc-462c-a8bd-746596fa5ade",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "bb9423b5-e394-44b9-a554-ad87ca572df0",
+                  "htmltext": "<b>Homo habilis</b> (Человек умелый, 2,4–1,5 млн лет назад): первые каменные орудия; Увеличение объема мозга до 600–700 см³"
+                },
+                "icon": "🛠️"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e625e712-a9d3-447c-9dd0-495441831595",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "4b70897b-448f-4819-a5f8-dd400f1e0159",
+                  "htmltext": "<b>Homo erectus</b> (Человек прямоходящий, 1,8 млн – 300 тыс. лет назад): умел пользоваться огнем"
+                },
+                "icon": "🔥"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "7c9afa60-6e1a-476e-8348-ad8a8eae0af9",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "52c5ff32-941b-4791-b57e-2ffa93128381",
+                  "htmltext": "<b>Неандертальцы</b> (400–40 тыс. лет назад): охота, изготовление сложных орудий; Объем мозга достигал 1400 см³"
+                },
+                "icon": "🛠️"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "8d5d013c-23cf-4884-abeb-1b31ca47a8d4",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "5c6f66c6-6eb0-4e3f-bbfc-6f4516fbca7d",
+                  "htmltext": "<b>Homo sapiens</b> (Человек разумный, 300 тыс. лет назад – настоящее время): развитие языка, культуры, искусства; Современный тип строения скелета и мозга (объем мозга около 1400–1600 см³)"
+                },
+                "icon": "🗣️"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        },
+        {
+          "nodeType": "STACK",
+          "id": "1d6213f1-d400-4b5c-845c-c9d920bb738a",
+          "gap": 16,
+          "flexWrap": "WRAP",
+          "justifyContent": "SPACE_BETWEEN",
+          "children": [
+            {
+              "nodeType": "TITLED_CONTAINER",
+              "id": "d77edcd4-af63-4cee-b373-a63ee69fabca",
+              "titleText": {
+                "nodeType": "TEXT",
+                "id": "34748739-130c-4563-a4c9-b33457dd0915",
+                "fontSize": "MEDIUM",
+                "textAlign": "LEFT",
+                "fontColor": "PRIMARY",
+                "fontWeight": "BOLD",
+                "htmltext": "ФАКТОРЫ РАЗВИТИЯ:"
+              },
+              "content": {
+                "nodeType": "STACK",
+                "id": "08c58ff5-e209-4b34-bef0-745296c4720a",
+                "gap": 2,
+                "children": [
+                  {
+                    "nodeType": "TEXT",
+                    "id": "86d20211-0976-43a5-a785-1d828cb44b1d",
+                    "htmltext": "1) Прямохождение 🚶‍♀️: руки освободились для труда"
+                  },
+                  {
+                    "nodeType": "TEXT",
+                    "id": "41eb3aa9-f513-4828-a32c-9cae5c70c24d",
+                    "htmltext": "2) Орудия труда 🔨: улучшение навыков выживания"
+                  },
+                  {
+                    "nodeType": "TEXT",
+                    "id": "265a31dd-9ec0-42a3-95bf-3399f04bd620",
+                    "htmltext": "3) Социальные связи 👥: обмен опытом"
+                  },
+                  {
+                    "nodeType": "TEXT",
+                    "id": "6e6d78d2-60ad-4b2d-adcf-2e9b78cce0e8",
+                    "htmltext": "4) Климатические изменения ❄️: поиск новых источников пищи"
+                  }
+                ],
+                "vertical": true
+              },
+              "divided": false
+            },
+            {
+              "nodeType": "CENTERED_CONTAINER",
+              "id": "7c903c41-a59c-40d1-b5c7-4b26f06a02be",
+              "background": "SECONDARY",
+              "borderType": "DASHED",
+              "borderColor": "PRIMARY",
+              "padding": "20px 10px",
+              "borderRadius": "8px",
+              "margin": "auto",
+              "width": "300px",
+              "childNode": {
+                "nodeType": "TEXT",
+                "id": "4a654d18-ab02-4f9c-958b-16b63f1bf3c2",
+                "textAlign": "CENTER",
+                "fontColor": "DEFAULT",
+                "htmltext": "Развитие происходило от древнейших предков (австралопитеков) до Homo sapiens"
+              }
+            }
+          ],
+          "vertical": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1a2f0a28-bf69-4289-9183-a5c50451fcf8",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "080b7b6b-230e-445b-9d16-dfef3062beb3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "Каменный век"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "b062e557-4d31-4540-8158-97cedfa95a7d",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "a05a800d-1ba8-4688-b22b-33c4e90a1cce",
+            "htmltext": "Каменный век — первый и самый длинный этап в истории человечества."
+          },
+          "icon": "🪨"
+        },
+        {
+          "nodeType": "STACK",
+          "id": "f643ac6f-3b05-4840-a31e-b90592eff6db",
+          "flexWrap": "WRAP",
+          "justifyContent": "SPACE_BETWEEN",
+          "children": [
+            {
+              "nodeType": "TITLED_CONTAINER",
+              "id": "6d6b50ad-a32b-4e59-b6a8-aaf1f44248a2",
+              "titleText": {
+                "nodeType": "TEXT",
+                "id": "4fbcb0e8-d730-44cf-9b3d-6eafa4c501b7",
+                "fontSize": "MEDIUM",
+                "textAlign": "LEFT",
+                "fontColor": "PRIMARY",
+                "fontWeight": "BOLD",
+                "htmltext": "ПЕРИОДИЗАЦИЯ:"
+              },
+              "content": {
+                "nodeType": "STACK",
+                "id": "fe85d377-2676-4585-93fa-a4f145b7d2a0",
+                "gap": 2,
+                "children": [
+                  {
+                    "nodeType": "TEXT",
+                    "id": "e414cf4a-8319-4554-889d-561e83e63f7f",
+                    "htmltext": "1. Палеолит (2,5 млн – 12 тыс. лет назад):<ul><li>Примитивные орудия, охота, собирательство</li><li>Жили в пещерах🏕️</li><li>Появление первых художественных произведений: наскальная живопись</li></ul>"
+                  },
+                  {
+                    "nodeType": "TEXT",
+                    "id": "8f066594-2093-4c77-82cd-bcce9395273b",
+                    "htmltext": "2. Мезолит (12–8 тыс. лет назад):<ul><li>Изобретение более сложных орудий труда, включая лук и стрелы🏹</li><li>- Первые попытки приручения животных</li>Использование лодок для рыболовства 🛶"
+                  },
+                  {
+                    "nodeType": "TEXT",
+                    "id": "7b788d9b-e500-4485-a166-7d4743cf4b6e",
+                    "htmltext": "3. Неолит (8–3 тыс. лет до н.э.):<ul><li>Неолитическая революция🌾: земледелие и скотоводство</li><li>Появление поселений 🏘️, гончарства и ткачества</li>"
+                  }
+                ],
+                "vertical": true
+              },
+              "divided": false
+            },
+            {
+              "nodeType": "TITLED_CONTAINER",
+              "id": "f5a503d7-8939-4ec2-bb16-d75a45c82331",
+              "titleText": {
+                "nodeType": "TEXT",
+                "id": "802194c4-0250-4eed-8c40-0398d95033ed",
+                "fontSize": "MEDIUM",
+                "textAlign": "CENTER",
+                "fontColor": "PRIMARY",
+                "fontWeight": "BOLD",
+                "htmltext": "ГЛАВНЫЕ ОТКРЫТИЯ:"
+              },
+              "content": {
+                "nodeType": "STACK",
+                "id": "9983dbd9-7158-4898-93ee-fd38e7f061de",
+                "gap": 30,
+                "children": [
+                  {
+                    "nodeType": "CENTERED_CONTAINER",
+                    "id": "36a544c5-8eb2-438c-bd88-af4482d0fc31",
+                    "background": "SECONDARY",
+                    "borderType": "DASHED",
+                    "borderColor": "PRIMARY",
+                    "padding": "20px 10px",
+                    "borderRadius": "8px",
+                    "margin": "auto",
+                    "width": "300px",
+                    "childNode": {
+                      "nodeType": "TEXT",
+                      "id": "ff9cddd0-dfe5-4a2b-9f03-dfcf26f0510c",
+                      "textAlign": "CENTER",
+                      "fontColor": "DEFAULT",
+                      "htmltext": "Огонь🔥: защита, тепло и приготовление пищи"
+                    }
+                  },
+                  {
+                    "nodeType": "CENTERED_CONTAINER",
+                    "id": "44a6f5b1-ceb0-4a18-8bbb-66737632d7bb",
+                    "background": "SECONDARY",
+                    "borderType": "DASHED",
+                    "borderColor": "PRIMARY",
+                    "padding": "20px 10px",
+                    "borderRadius": "8px",
+                    "margin": "auto",
+                    "width": "300px",
+                    "childNode": {
+                      "nodeType": "TEXT",
+                      "id": "97fe7f35-cda6-4c2b-b722-d363e05dd088",
+                      "textAlign": "CENTER",
+                      "fontColor": "DEFAULT",
+                      "htmltext": "Лук и стрелы🏹: эффективная охота"
+                    }
+                  },
+                  {
+                    "nodeType": "CENTERED_CONTAINER",
+                    "id": "d2e8d70f-ad94-4e69-ada1-8677a920e232",
+                    "background": "SECONDARY",
+                    "borderType": "DASHED",
+                    "borderColor": "PRIMARY",
+                    "padding": "20px 10px",
+                    "borderRadius": "8px",
+                    "margin": "auto",
+                    "width": "300px",
+                    "childNode": {
+                      "nodeType": "TEXT",
+                      "id": "ba9d17a7-021c-4412-bb31-33f35edf6308",
+                      "textAlign": "CENTER",
+                      "fontColor": "DEFAULT",
+                      "htmltext": "Земледелие🌾 и скотоводство 🐄: основа оседлого образа жизни"
+                    }
+                  }
+                ],
+                "vertical": true
+              },
+              "divided": false
+            }
+          ],
+          "vertical": false
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "7cf21ccb-1cb6-4575-8193-51835b305ce2",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "d8cec39b-2131-4121-80fe-a9cfbc56c479",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "ОСОБЕННОСТИ КАМЕННОГО ВЕКА:"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "a170c01a-6c3c-409e-803d-cf62d739c6be",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "TEXT",
+                "id": "76edbcbc-df64-4e69-acfb-d8397e7d3440",
+                "htmltext": "Использование природных ресурсов 🌿"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "1f25991e-be9b-40c6-8ac1-b878687a8fc7",
+                "htmltext": "Первобытные общины 👥"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "934dd443-1a55-4197-8dc8-4324164077e2",
+                "htmltext": "Развитие технологий 🔨: от примитивных орудий к более сложным"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "50e3209b-1d48-42a1-a1ab-2dc71899785e",
+                "htmltext": "Религиозные представления 🙏: тотемизм, магия, культы"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

@@ -1,0 +1,227 @@
+{
+  "nodeType": "STACK",
+  "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 32,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "COURSE DETAILS"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e0b5187c-8b37-4be4-bf55-cd690c9c165e",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "241027e2-e247-4c54-86a4-b5b0c65246b9",
+                  "htmltext": "<b>Department:</b> Computer Science"
+                },
+                "icon": "🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c88f2ae2-b86b-4736-9160-5484e0c5380f",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "9cb3ec64-e163-49b9-a556-39c67e329d1e",
+                  "htmltext": "<b>Course Code:</b> CSS -228"
+                },
+                "icon": "📚"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "b134e269-df89-460d-bd0d-e1a1a5879473",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "715c9c9c-4fd8-4da5-9dee-7e3ef0fc3a7c",
+                  "htmltext": "<b>Instructor:</b> Asst. Prof. Dr. Mohammed Ala’anzy"
+                },
+                "icon": "👨‍🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "d2b72217-134f-49f0-8c6f-d8afcb017f40",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "09c33023-b3f7-475d-b157-fe1c2b8a7271",
+                  "htmltext": "<b>Office No:</b> I -205"
+                },
+                "icon": "🏢"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "8c515b38-6177-4e9d-a153-1d0034f4b58c",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "ae7d45a3-4c69-45de-b365-b3c151c58760",
+                  "htmltext": "<b>Lecture:</b> 6"
+                },
+                "icon": "🕕"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "d0e024e3-ad5e-4870-84b7-c9f82f88af1c",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "aad75ba0-9aa4-4d0e-bb5e-ffb74ae4b22d",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "DIRECTED GRAPHS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "b25085d9-1191-4ec6-8352-15f706a1b56f",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "5d8c215d-5875-4961-87d9-8e5f99fd19d2",
+            "htmltext": "<b>Introduction</b>"
+          },
+          "icon": "📖"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "f8bbfc8f-d3f2-462e-b04b-0329eb181b57",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ddaf15b7-fc80-4131-8159-6c57938e7b66",
+            "htmltext": "<b>Digraph API</b>"
+          },
+          "icon": "📜"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "7cdee962-4f38-4140-ae37-d1ed7a12aea7",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "1f813301-0e62-4e03-abdc-ddb897438f38",
+            "htmltext": "<b>Digraph Search</b>"
+          },
+          "icon": "🔍"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "28fd2cc4-ec96-4767-8016-c78187fc40f0",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "35688d2a-4b56-4f7f-9866-5a0eb6ea6c0e",
+            "htmltext": "<b>Topological Sort</b>"
+          },
+          "icon": "📊"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "240ccc40-8879-4b38-94e9-847ce1436634",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "f10c9214-57f7-48fc-bf77-722835237265",
+            "htmltext": "<b>Strong Components</b>"
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1881d644-e094-4e5f-96e7-15256be4a511",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "546e63fb-02d5-4444-b592-d62f47995229",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "DEFINITION OF DIGRAPH"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "25029919-2512-4e83-abda-96e4cfd77990",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "9bc7cb12-3b0d-4e86-b285-b6e3090bc942",
+            "htmltext": "<b>A digraph is a set of vertices connected pairwise by directed edges.</b>"
+          },
+          "icon": "📒"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "1ae1f115-1982-4777-aae5-1f3c52e0315d",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "e9b79470-491a-44a5-94c4-69aa3d7b0dac",
+            "htmltext": "<b>Examples:</b>"
+          },
+          "icon": "📌"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "1b3fa6ff-e26c-4c54-91f3-4f68c7e8a0b8",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "9fc90d50-a080-417b-9bba-58716f693b9e",
+            "htmltext": "<b>- Road network:</b> Vertex = intersection; edge = one-way street."
+          },
+          "icon": "🚦"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "d1e91563-2035-46e4-8cd6-d704108630f9",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "0fc52258-ce12-44e1-b58e-250aaaeec2e0",
+            "htmltext": "<b>- Combinational circuit:</b> Vertex = logical gate; edge = wire."
+          },
+          "icon": "🔌"
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

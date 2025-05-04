@@ -1,0 +1,171 @@
+{
+  "nodeType": "STACK",
+  "id": "dbd73462-7618-4e51-91e4-23013ed09e89",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 102,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "7401712f-106a-4b5b-b421-fe0bf5256839",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "97653cfe-7dc7-4e03-bdc3-cf4aa35bc039",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0a28e49e-ebcf-4ccc-9f99-b8bdefae6b65",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "49154e3f-53e4-4e86-939f-baad5a3dce21",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "Department Information"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "b18bb3e6-0a15-4b3f-be3b-d767bbea0963",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "f9432bf9-858a-4acf-b1df-0023f31513f5",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "7de04031-b4e2-4596-8f61-a05ae128e895",
+                  "htmltext": "<b>Department</b>: Computer science"
+                },
+                "icon": "📚"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e7b6a53c-e0fc-462c-a8bd-746596fa5ade",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "bb9423b5-e394-44b9-a554-ad87ca572df0",
+                  "htmltext": "<b>Course Code</b>: CSS -228"
+                },
+                "icon": "📝"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "1234523f-ev12-67f1-ab3c-fakeid0932",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "abcde9123-d32e-23f4-ad23-fakeid0321",
+                  "htmltext": "<b>Course Instructor</b>: Asst. Prof. Dr. Mohammed Ala’anzy"
+                },
+                "icon": "👨‍🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "abc4321g-hjkl-56dry-tyr123-fakeid0123",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "efgh3456-6789-12fg-3456-fakeid0456",
+                  "htmltext": "<b>Office no.</b>: I -205"
+                },
+                "icon": "🏢"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "xyz0987r-ujhg-4321-rtyh-fakeid0789",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "hijk6789-clmn-2345-gfgh-fakeid0678",
+                  "htmltext": "<b>Lecture</b>: 5"
+                },
+                "icon": "🎓"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1a2f0a28-bf69-4289-9183-a5c50451fcf8",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "080b7b6b-230e-445b-9d16-dfef3062beb3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNDIRECTED GRAPHS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "b062e557-4d31-4540-8158-97cedfa95a7d",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "a05a800d-1ba8-4688-b22b-33c4e90a1cce",
+            "htmltext": "A graph is a set of vertices connected pairwise by edges."
+          },
+          "icon": "📊"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "f12e3456-titl-12b1-13dc-afgmno3259",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "cde4567r-8912-34er-nnegf-mkno1234",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "Why Study Graph Algorithms?"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "akjs8912-bobmno-678-lelzx-oid0293",
+            "gap": 10,
+            "children": [
+              {
+                "nodeType": "TEXT",
+                "id": "ghij1357-asdfg-fhhdj-gh5478-fakeid0612",
+                "htmltext": "<li>Thousands of practical applications.</li>"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "pqrst6543-t6789-890y-ghijk-fakeid0543",
+                "htmltext": "<li>Hundreds of known graph algorithms.</li>"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "tuv23324-9876-yui99877-resizado-fakeid0478",
+                "htmltext": "<li>Interesting and broadly useful abstraction.</li>"
+              },
+              {
+                "nodeType": "TEXT",
+                "id": "ghkl3474-asdfo11-adsfhl-a9909-fakeid0311",
+                "htmltext": "<li>A challenging branch of computer science and discrete math.</li>"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

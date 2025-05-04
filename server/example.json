@@ -1,0 +1,42 @@
+{
+  "title": "История Казахстана - Вступительный тест",
+  "description": "Этот тест охватывает базовые темы истории Казахстана",
+  "showQuestions": true,
+  "language": "KAZ",
+  "questionCreateRequests": [
+    {
+      "questionCreate": {
+        "question": "Когда произошло восстание Кенесары Касымова?",
+        "level": "MEDIUM",
+        "durationInSeconds": 90,
+        "variants": [
+          {
+            "text": "1837-1847 годы",
+            "correct": true
+          },
+          {
+            "text": "1916 год",
+            "correct": false
+          }
+        ]
+      }
+    },
+    {
+      "questionCreate": {
+        "question": "Когда произошло восстание Кенесары Касымова?",
+        "level": "MEDIUM",
+        "durationInSeconds": 90,
+        "variants": [
+          {
+            "text": "1837-1847 годы",
+            "correct": true
+          },
+          {
+            "text": "1916 год",
+            "correct": false
+          }
+        ]
+      }
+    }
+  ]
+}

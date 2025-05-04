@@ -1,0 +1,153 @@
+{
+    "nodeType": "STACK",
+    "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+    "background": "DEFAULT",
+    "padding": "60px 40px",
+    "borderRadius": "8px",
+    "gap": 32,
+    "justifyContent": "SPACE_BETWEEN",
+    "children": [
+        {
+            "nodeType": "STACK",
+            "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+            "gap": 64,
+            "children": [
+                {
+                    "nodeType": "TEXT",
+                    "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+                    "fontSize": "BIG",
+                    "textAlign": "CENTER",
+                    "fontColor": "PRIMARY",
+                    "fontWeight": "BOLD",
+                    "htmltext": "ALGORITHM II MOCK TEST"
+                },
+                {
+                    "nodeType": "TITLED_CONTAINER",
+                    "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+                    "titleText": {
+                        "nodeType": "TEXT",
+                        "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+                        "fontSize": "MEDIUM",
+                        "textAlign": "LEFT",
+                        "fontColor": "PRIMARY",
+                        "fontWeight": "BOLD",
+                        "htmltext": "QUESTIONS"
+                    },
+                    "content": {
+                        "nodeType": "STACK",
+                        "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+                        "gap": 2,
+                        "children": [
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "e0b5187c-8b37-4be4-bf55-cd690c9c165e",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "241027e2-e247-4c54-86a4-b5b0c65246b9",
+                                    "htmltext": "<b>1. What is a digraph?</b>"
+                                },
+                                "icon": "❓"
+                            },
+                            {
+                                "nodeType": "RADIO_BUTTONS",
+                                "id": "c88f2ae2-b86b-4736-9160-5484e0c5380f",
+                                "question": {
+                                    "title": "What is a digraph?",
+                                    "variants": [
+                                        "A set of vertices connected pairwise by directed edges.",
+                                        "A set of vertices connected by undirected edges.",
+                                        "A single vertex with no edges.",
+                                        "A collection of isolated vertices."
+                                    ],
+                                    "correctVariantIndex": 0
+                                }
+                            },
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "b134e269-df89-460d-bd0d-e1a1a5879473",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "715c9c9c-4fd8-4da5-9dee-7e3ef0fc3a7c",
+                                    "htmltext": "<b>2. Which of the following are types of digraphs?</b>"
+                                },
+                                "icon": "❓"
+                            },
+                            {
+                                "nodeType": "CHECKBOXES",
+                                "id": "d2b72217-134f-49f0-8c6f-d8afcb017f40",
+                                "question": {
+                                    "title": "Which of the following are types of digraphs?",
+                                    "variants": [
+                                        "Weighted digraph",
+                                        "Unweighted digraph",
+                                        "Cyclic digraph",
+                                        "Acyclic digraph",
+                                        "Complete digraph"
+                                    ],
+                                    "correctVariantIndex": [
+                                        0,
+                                        1,
+                                        2,
+                                        3,
+                                        4
+                                    ]
+                                }
+                            },
+                            {
+                                "nodeType": "ICON_TEXT",
+                                "id": "8c515b38-6177-4e9d-a153-1d0034f4b58c",
+                                "text": {
+                                    "nodeType": "TEXT",
+                                    "id": "ae7d45a3-4c69-45de-b365-b3c151c58760",
+                                    "htmltext": "<b>3. Match the following terms with their definitions:</b>"
+                                },
+                                "icon": "❓"
+                            },
+                            {
+                                "nodeType": "MATCHING",
+                                "id": "1b3fa6ff-e26c-4c54-91f3-4f68c7e8a0b8",
+                                "question": {
+                                    "title": "Match the following terms with their definitions:",
+                                    "terms": [
+                                        "1. Vertex",
+                                        "2. Edge",
+                                        "3. Directed Edge",
+                                        "4. Path"
+                                    ],
+                                    "definitions": [
+                                        "a. A connection between two vertices.",
+                                        "b. A point in a graph.",
+                                        "c. An edge with a direction.",
+                                        "d. A sequence of edges connecting vertices."
+                                    ],
+                                    "correctMatches": [
+                                        {
+                                            "termIndex": 0,
+                                            "definitionIndex": 1
+                                        },
+                                        {
+                                            "termIndex": 1,
+                                            "definitionIndex": 0
+                                        },
+                                        {
+                                            "termIndex": 2,
+                                            "definitionIndex": 2
+                                        },
+                                        {
+                                            "termIndex": 3,
+                                            "definitionIndex": 3
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "vertical": true
+                    },
+                    "divided": false
+                }
+            ],
+            "vertical": true
+        }
+    ],
+    "vertical": true
+}

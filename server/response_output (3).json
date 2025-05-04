@@ -1,0 +1,783 @@
+{
+  "nodeType": "STACK",
+  "id": "c8b4c8e2-f851-435f-bbaf-82b28cbdbbc0",
+  "background": "DEFAULT",
+  "padding": "60px 40px",
+  "borderRadius": "8px",
+  "gap": 32,
+  "justifyContent": "SPACE_BETWEEN",
+  "children": [
+    {
+      "nodeType": "STACK",
+      "id": "5791a646-10d7-4c84-b5c3-8dd23e82a18e",
+      "gap": 64,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "f5c1e645-ddb1-4c1c-97ea-e321e2db30ea",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "ALGORITHM II"
+        },
+        {
+          "nodeType": "TITLED_CONTAINER",
+          "id": "0f6aea71-ed36-4649-b89d-dd299528c1a3",
+          "titleText": {
+            "nodeType": "TEXT",
+            "id": "84d35e0b-60ae-488f-bb84-c2445de3235b",
+            "fontSize": "MEDIUM",
+            "textAlign": "LEFT",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "COURSE DETAILS"
+          },
+          "content": {
+            "nodeType": "STACK",
+            "id": "7de92892-69aa-4e39-9585-cc1a9b5e1f72",
+            "gap": 2,
+            "children": [
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "e0b5187c-8b37-4be4-bf55-cd690c9c165e",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "241027e2-e247-4c54-86a4-b5b0c65246b9",
+                  "htmltext": "<b>Department:</b> Computer Science"
+                },
+                "icon": "🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c88f2ae2-b86b-4736-9160-5484e0c5380f",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "9cb3ec64-e163-49b9-a556-39c67e329d1e",
+                  "htmltext": "<b>Course Code:</b> CSS -228"
+                },
+                "icon": "📚"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "259eabe7-fce6-44ae-a945-7e3b7f5ad1d9",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "29ba0dc7-aeeb-44d3-9731-492bc0d3c0ca",
+                  "htmltext": "<b>Instructor:</b> Asst. Prof. Dr. Mohammed Ala’anzy"
+                },
+                "icon": "👨‍🏫"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "30daa8a7-d1eb-4fa1-9b8f-baf900b9a9cc",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "17c68dc8-b8bb-40f3-b7f1-935e2efcd49e",
+                  "htmltext": "<b>Office:</b> I -205"
+                },
+                "icon": "🏢"
+              },
+              {
+                "nodeType": "ICON_TEXT",
+                "id": "c65f70cc-f34f-4e1c-a66e-1db9c4b5df05",
+                "text": {
+                  "nodeType": "TEXT",
+                  "id": "38b3def4-046f-458e-9657-d9a55fbcde44",
+                  "htmltext": "<b>Lecture:</b> 4"
+                },
+                "icon": "📅"
+              }
+            ],
+            "vertical": true
+          },
+          "divided": false
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "d0e024e3-ad5e-4870-84b7-c9f82f88af1c",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "aad75ba0-9aa4-4d0e-bb5e-ffb74ae4b22d",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNION -FIND"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "b25085d9-1191-4ec6-8352-15f706a1b56f",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "5d8c215d-5875-4961-87d9-8e5f99fd19d2",
+            "htmltext": "<b>Dynamic Connectivity.</b>"
+          },
+          "icon": "🔗"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "9fd60582-529d-432e-99e3-0a14e86caaa1",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "25906b9f-84bc-44fc-9511-d64b31dc5e36",
+            "htmltext": "<b>Quick Find.</b>"
+          },
+          "icon": "⚡"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "e9f54240-1020-4ae1-916f-1e615ab27eaf",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "c3dbb427-148d-4e92-8232-ebf60a27f9e0",
+            "htmltext": "<b>Quick Union.</b>"
+          },
+          "icon": "🔄"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "81c1e065-a58d-448d-bb56-43d3c7557c45",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "162df56f-d279-495b-bb67-ffec2ea54243",
+            "htmltext": "<b>Improvements.</b>"
+          },
+          "icon": "🔧"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "a0fc174c-e459-4027-91df-1c52f130ba7a",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "f2cc70b5-d62e-4904-a0c7-e0555ff4f0c4",
+            "htmltext": "<b>Applications.</b>"
+          },
+          "icon": "💼"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "1881d644-e094-4e5f-96e7-15256be4a511",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "546e63fb-02d5-4444-b592-d62f47995229",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "DYNAMIC CONNECTIVITY"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "25029919-2512-4e83-abda-96e4cfd77990",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "9bc7cb12-3b0d-4e86-b285-b6e3090bc942",
+            "htmltext": "<b>Given a set of n objects.</b>"
+          },
+          "icon": "📦"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "c56d9960-1197-4f23-ac32-c93ac6962484",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "098d6edc-99e1-49c5-8020-7b59ab76e7e6",
+            "htmltext": "<b>Union command:</b> connect two objects."
+          },
+          "icon": "🔗"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "9e71aa13-b36a-4bee-9c14-241f978e3cdc",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "94d63f0d-b57b-47b0-8c53-234c0f36b013",
+            "htmltext": "<b>Find/connected query:</b> is there a path connecting the two objects?"
+          },
+          "icon": "❓"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "24b39c8e-e2ce-4ae4-9525-90157460bb1f",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "3cb5da63-6d3f-4750-a270-a85977c8a0e5",
+            "htmltext": "<b>Connected pairs:</b> union(4, 3), union(3, 8), ..."
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "7f3e1e62-51e3-4d71-b323-353f0a828d89",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "b0953fe6-f9fe-4041-bc2a-738f2c5f04e4",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "MODELING THE OBJECTS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "9cfba7c5-30eb-46bc-aa8e-09c8c045844e",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "592dfaca-5ca3-4f47-814c-ec88a850e548",
+            "htmltext": "<b>Applications involve manipulating objects of all types.</b>"
+          },
+          "icon": "🛠️"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "62c54a9d-f233-4718-bcb2-6297b8243b4a",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "0f0dc7cc-a8bf-473b-9045-eb62ae727b01",
+            "htmltext": "<b>Convenient to name objects:</b> 0 to n - 1."
+          },
+          "icon": "📝"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "e4e3578b-eec0-4b3e-9f89-dba115ca6f33",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "16ba38ed-bc2b-4f57-b4f5-79c54dbfe1ae",
+            "htmltext": "<b>Use integers as array index.</b>"
+          },
+          "icon": "🔢"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "2c93e4f6-069d-442c-b0be-0393de13e4b0",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "cfd2b39a-2ba0-48c0-97dc-98f3c9a792d8",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "MODELING THE CONNECTIONS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "dd1a7bc6-d305-47fb-b530-56e52905c259",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "0427eaa7-e5b7-4895-b013-f6e55e1fc055",
+            "htmltext": "<b>'Is connected to' is an equivalence relation:</b>"
+          },
+          "icon": "🔄"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "7c82ed95-fc81-4878-a845-f5ca6e916b5f",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "f832e6bd-78c4-4c6d-9b73-fb49640b5bca",
+            "htmltext": "<b>Reflexive:</b> p is connected to p."
+          },
+          "icon": "🔗"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "e683e936-adf6-4fa0-bc77-62f0528d783b",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "df8731c1-bbd7-4693-b2cb-4af0253587cd",
+            "htmltext": "<b>Symmetric:</b> if p is connected to q, then q is connected to p."
+          },
+          "icon": "🔄"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "82776aff-bf8b-4a1e-bc4c-3ca0d113d882",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "022b4793-d71f-4c9e-b90c-3d3ffcb67aab",
+            "htmltext": "<b>Transitive:</b> if p is connected to q and q is connected to r, then p is connected to r."
+          },
+          "icon": "➡️"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "56daeeb0-984f-487e-8c4a-5f40654cd719",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "6aa94ac5-69c9-466f-810b-54e2bc122431",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "IMPLEMENTING THE OPERATIONS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "4b8bb5b7-1fa6-465f-aeaf-b99171e23336",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "74274d58-e030-4c7f-82d0-84bd214178b0",
+            "htmltext": "<b>Find query:</b> Check if two objects are in the same component."
+          },
+          "icon": "🔍"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "e4c5776c-5293-4020-b894-7f9a963c3d87",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "881e77ad-5e1a-4855-9478-ad6b0ed21298",
+            "htmltext": "<b>Union command:</b> Replace components containing two objects with their union."
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "e0dc52a5-4585-466b-b8c2-72e24fec7cee",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "1c4b5f6a-d674-48b7-b9c2-0f8979e41ed3",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNION-FIND DATA TYPE (API)"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "c27d1e2e-a88d-4eda-a653-d718c59b3d9d",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "58b1c654-fed1-44f7-b81d-6491a23e0285",
+            "htmltext": "<b>Goal:</b> Design efficient data structure for union-find."
+          },
+          "icon": "🎯"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "84423f68-f32c-4671-95c4-d5c0082b8ee5",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "a9e20ed4-4a6f-4538-aef7-f9c1798dba88",
+            "htmltext": "<b>API Method:</b> public class UF"
+          },
+          "icon": "📜"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "7a6b9f3f-b0fd-4f6f-a2cb-cdff2926cf87",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "cf08c8d6-0ab1-4ade-9c52-244d1d949469",
+            "htmltext": "<b>UF(int n):</b> initialize union-find data structure with n objects."
+          },
+          "icon": "⚙️"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "f14bfc1f-27cd-4ffe-a66c-fbd4aa2e6a73",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "4d78c73a-09e4-4fd9-9565-cf26569d3491",
+            "htmltext": "Other methods (union, find, connect, count) described here."
+          },
+          "icon": "🔧"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "b067e25e-83b1-4f82-affc-7a73eb834535",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "bc6219f6-d63b-4852-8f8b-cd83b126f717",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "DYNAMIC -CONNECTIVITY CLIENT"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "cd32aaa7-5651-4b78-a160-ba62f9e0070e",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "42cbfd2d-b5dc-45c8-88b9-cc917e6399ba",
+            "htmltext": "<b>Read in number of objects n from standard input.</b>"
+          },
+          "icon": "🔢"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "46e9fe54-e079-469e-b49c-0d5937bde881",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "eca66e85-508e-4892-b58c-94c9cdcb3c74",
+            "htmltext": "<b>Repeat:</b> Read in pairs of integers from standard input."
+          },
+          "icon": "🔄"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "82f388b1-e17e-4fdf-9c95-f507456b5343",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "f0dc08a2-5428-48ab-82b8-477b03c755b1",
+            "htmltext": "<b>Connect them if not yet connected and print out pair.</b>"
+          },
+          "icon": "🤝"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "6c578f76-1344-4b09-a8c9-0c81cbb2b173",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "d4f32469-b805-4698-8e6d-3b5ed7666322",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "PROBLEM EXAMPLES"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "0ebc5319-c920-44e2-b2b0-eeb2470b48ff",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ba4528e9-38b2-4254-8ff8-b70fd724872a",
+            "htmltext": "<b>10 // number of objects</b>"
+          },
+          "icon": "🔢"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "ebf99e31-0324-41e1-b67e-e9ebd2ec1fd2",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ad2647f4-b1eb-4f36-a3e2-1c452a4f0863",
+            "htmltext": "<b>4 3 // connect 4 and 3</b>"
+          },
+          "icon": "🤝"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "9c14b85d-8223-4cf5-a204-081c117993d0",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ba9e1195-ed55-44fe-b0eb-a42966e3f268",
+            "htmltext": "...other pairs follow..."
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "82d09585-d3f7-4f5e-8ae3-e1cdc9cb8b4b",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "f1b98ab1-03a4-4450-b35e-6c76d440e57c",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "QUICK -FIND [EAGER APPROACH]"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "7dac1316-d724-4d3c-a57a-9bd782ab0e3f",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "15ae242b-6ea1-4a30-95d6-b6d7718fad75",
+            "htmltext": "<b>Data structure:</b> Integer array id[] of length n."
+          },
+          "icon": "📊"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "4738204c-e44f-4ae5-81b9-05b011b57354",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "f3c1d5c4-e92e-44a2-b474-cb040e2dcd24",
+            "htmltext": "<b>Interpretation:</b> p and q are connected if they have the same id."
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "5a9ec312-13e2-4cf3-b66e-6283531553cf",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "1093b3c2-e1e1-414a-90c5-f9e6e13abf84",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "QUICK -FIND DEMO."
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "19ca29b1-e0c4-4995-8509-b2bf5bb59a96",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "5c8f3fdb-c733-4f2a-8ff4-5fb3fa2f4d68",
+            "htmltext": "<b>Call unions to demonstrate connectivity examples.</b>"
+          },
+          "icon": "🔗"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "47b5c082-0ea6-4f30-bb5b-e77bde1ae790",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "c8ba5b10-e587-438d-b7e4-92b8e8ed293c",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "QUICK -FIND: JAVA IMPLEMENTATION"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "646ca9b5-9394-48fb-a79a-d6a14ba80ad2",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "4d233577-4eb9-4ee4-bb11-bb031d3cbb42",
+            "htmltext": "<b>public class QuickFindUF {</b>"
+          },
+          "icon": "🔍"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "1d68f89e-cf69-4772-8dc5-e4ca6260aad5",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ea7fc3b4-ec6a-4838-864b-0f3c43f6c5c5",
+            "htmltext": "<b>private int[] id;</b>"
+          },
+          "icon": "🔒"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "d5ee0af0-d1a5-4c6b-9613-007a624c9bbd",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "7b1c8b3c-6733-4e26-97cb-66cf6c9b6794",
+            "htmltext": "<b>public QuickFindUF(int N) {</b>"
+          },
+          "icon": "⚙️"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "234949c2-bc97-4cd0-bf83-96816e07cd64",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "30b2f92c-bc9b-49ed-89b6-32b36720d254",
+            "htmltext": "Initialize and set the id of each object here."
+          },
+          "icon": "🧑‍💻"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "94b91660-d5f1-4848-8390-c40b3e002b95",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "9f2c439b-07c1-4f89-8a09-8166f58979c8",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "QUICK -FIND IS TOO SLOW"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "c1eb0349-0c50-479d-836d-463412b12a25",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "c10960f9-4e4f-43c6-905a-1f33a4f5891e",
+            "htmltext": "<b>Cost model:</b> Number of array accesses."
+          },
+          "icon": "💰"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "f087aed1-ba49-4998-90dc-4aeb2263eae9",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "840e649a-b55b-4f4a-b8bb-4862ede6bf26",
+            "htmltext": "<b>Union is too expensive.</b>"
+          },
+          "icon": "⚠️"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "14c0d8fc-8f97-497a-b500-e6ce0bc10a3d",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "0644c09a-e36c-4a2f-b7c3-6053d020d545",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "QUICK -UNION [LAZY APPROACH]"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "44474e7d-efc4-45ac-b5e2-27252e8d68ee",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "6864a7c8-49b0-42c5-bc79-f0a1decbfea7",
+            "htmltext": "<b>Data structure:</b> Integer array id[] of length N."
+          },
+          "icon": "📊"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "739b3911-b525-437b-85d1-ecc60db522b2",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "1c1c0796-a1ab-4579-8cf5-8cde48da1b3c",
+              "htmltext": "<b>Interpretation:</b> id[i] is parent of i."
+          },
+          "icon": "🏰"
+        }
+      ],
+      "vertical": true
+    },
+    {
+      "nodeType": "STACK",
+      "id": "b3d07793-e6c9-4584-ba5c-efc656cb1eb1",
+      "background": "DEFAULT",
+      "gap": 32,
+      "children": [
+        {
+          "nodeType": "TEXT",
+          "id": "a700398d-4f16-48b5-b9ec-6ec6cef08b83",
+          "fontSize": "BIG",
+          "textAlign": "CENTER",
+          "fontColor": "PRIMARY",
+          "fontWeight": "BOLD",
+          "htmltext": "UNION -FIND APPLICATIONS"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "59e4dd9e-49d1-4934-b732-dd9a16917c59",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "9cbe5761-4338-497a-a529-47bdebe49b90",
+            "htmltext": "<b>Games:</b> (Go, Hex)."
+          },
+          "icon": "🎮"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "1e3c52e2-dbc3-4b09-a4b4-6bc04fe43c30",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "ee592d64-bfc6-4416-bab4-89a3070877b8",
+            "htmltext": "<b>Dynamic connectivity.</b>"
+          },
+          "icon": "🔗"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "1833641c-9d58-44f0-b306-e47c2c1ea5a4",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "4b93dc57-af5f-4e15-9568-5c7ab5bda2eb",
+            "htmltext": "<b>Percolation.</b>"
+          },
+          "icon": "💧"
+        },
+        {
+          "nodeType": "ICON_TEXT",
+          "id": "c0f86a4e-b796-4c0d-8774-13b81670b034",
+          "text": {
+            "nodeType": "TEXT",
+            "id": "0475fc9f-185c-4b45-8937-2b9c764ca2d7",
+            "htmltext": "<b>Many other applications in various fields.</b>"
+          },
+          "icon": "🌍"
+        }
+      ],
+      "vertical": true
+    }
+  ],
+  "vertical": true
+}

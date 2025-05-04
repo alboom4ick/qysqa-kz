@@ -1,0 +1,104 @@
+{
+    "nodeType": "STACK", // This defines the type of layout, a container that arranges its children in a vertical stack
+    "id": "dbd73462-7618-4e51-91e4-23013ed09e89", // Unique identifier for this node
+    "background": "DEFAULT", // Background style applied to this node
+    "padding": "60px 40px", // Padding around the content of this node
+    "borderRadius": "8px", // Border radius for rounded corners
+    "gap": 102, // Gap between child elements
+    "justifyContent": "SPACE_BETWEEN", // Alignment of children with equal space between them
+    "children": [ // The array of child nodes contained in this stack
+      {
+        "nodeType": "STACK", // Nested stack container
+        "id": "7401712f-106a-4b5b-b421-fe0bf5256839", // Unique identifier for this child stack
+        "gap": 64, // Gap between the children inside this stack
+        "children": [
+          {
+            "nodeType": "TEXT", // This node contains text content
+            "id": "97653cfe-7dc7-4e03-bdc3-cf4aa35bc039", // Unique identifier for the text node
+            "fontSize": "BIG", // Font size for the text
+            "textAlign": "CENTER", // Text alignment (centered)
+            "fontColor": "PRIMARY", // Font color (primary color in the theme)
+            "fontWeight": "BOLD", // Font weight (bold)
+            "htmltext": "Формирование древнего человека" // The actual content text
+          },
+          {
+            "nodeType": "TITLED_CONTAINER", // Container with a title and content
+            "id": "0a28e49e-ebcf-4ccc-9f99-b8bdefae6b65", // Unique identifier for this titled container
+            "titleText": { // Title of the container
+              "nodeType": "TEXT", // Text node for the title
+              "id": "49154e3f-53e4-4e86-939f-baad5a3dce21", // Unique identifier for the title text
+              "fontSize": "MEDIUM", // Font size for the title
+              "textAlign": "LEFT", // Align the title to the left
+              "fontColor": "PRIMARY", // Title font color
+              "fontWeight": "BOLD", // Title font weight
+              "htmltext": "СТАДИИ ЭВОЛЮЦИИ:" // The title content
+            },
+            "content": { // Content inside the container
+              "nodeType": "STACK", // Stack container for the content
+              "id": "b18bb3e6-0a15-4b3f-be3b-d767bbea0963", // Unique identifier for the content stack
+              "gap": 2, // Gap between child nodes in the content stack
+              "children": [ // Child elements of the content stack
+                {
+                  "nodeType": "ICON_TEXT", // Icon and text combination
+                  "id": "f9432bf9-858a-4acf-b1df-0023f31513f5", // Unique identifier for this icon-text combination
+                  "text": { // The text content
+                    "nodeType": "TEXT", // Text node
+                    "id": "7de04031-b4e2-4596-8f61-a05ae128e895", // Unique identifier for the text node
+                    "htmltext": "<b>Австралопитеки</b> (4–2 млн лет назад): прямохождение; Размер мозга — около 400–500 см³" // Text content with HTML formatting
+                  },
+                  "icon": "🚶" // Icon associated with the text (a walking person icon)
+                },
+                {
+                  "nodeType": "ICON_TEXT", // Another icon-text combination
+                  "id": "e7b6a53c-e0fc-462c-a8bd-746596fa5ade", // Unique identifier
+                  "text": {
+                    "nodeType": "TEXT",
+                    "id": "bb9423b5-e394-44b9-a554-ad87ca572df0",
+                    "htmltext": "<b>Homo habilis</b> (Человек умелый, 2,4–1,5 млн лет назад): первые каменные орудия; Увеличение объема мозга до 600–700 см³"
+                  },
+                  "icon": "🛠️"
+                }
+                // Additional ICON_TEXT nodes would go here (like "Homo erectus", "Неандертальцы", etc.)
+              ],
+              "vertical": true // Stack the children vertically
+            },
+            "divided": false // Whether the container is divided into multiple sections (false means no division)
+          },
+          // More content sections like the "ФАКТОРЫ РАЗВИТИЯ" section can be added here similarly
+        ],
+        "vertical": true // This stack layout arranges children vertically
+      },
+      // Additional sections like the "Каменный век" section can go here
+      {
+        "nodeType": "STACK",
+        "id": "1a2f0a28-bf69-4289-9183-a5c50451fcf8",
+        "background": "DEFAULT",
+        "gap": 32,
+        "children": [
+          {
+            "nodeType": "TEXT",
+            "id": "080b7b6b-230e-445b-9d16-dfef3062beb3",
+            "fontSize": "BIG",
+            "textAlign": "CENTER",
+            "fontColor": "PRIMARY",
+            "fontWeight": "BOLD",
+            "htmltext": "Каменный век"
+          },
+          {
+            "nodeType": "ICON_TEXT",
+            "id": "b062e557-4d31-4540-8158-97cedfa95a7d",
+            "text": {
+              "nodeType": "TEXT",
+              "id": "a05a800d-1ba8-4688-b22b-33c4e90a1cce",
+              "htmltext": "Каменный век — первый и самый длинный этап в истории человечества."
+            },
+            "icon": "🪨"
+          },
+          // Additional content about the "Каменный век" period would be added here
+        ],
+        "vertical": true
+      }
+    ],
+    "vertical": true // The top-level stack also arranges its children vertically
+  }
+  

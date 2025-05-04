@@ -1,0 +1,56 @@
+{
+    "content": [
+        {
+            "title": "What is the primary function of the mitochondria in a cell?",
+            "variants": [
+                "Energy production",
+                "Protein synthesis",
+                "DNA replication",
+                "Cell division"
+            ],
+            "correctVariantIndex": 0
+        },
+        {
+            "title": "Which of the following are types of RNA involved in protein synthesis?",
+            "variants": [
+                "mRNA",
+                "tRNA",
+                "rRNA",
+                "All of the above",
+                "None of the above"
+            ],
+            "correctVariantIndex": 3
+        },
+        {
+            "title": "Match the following scientists with their contributions:",
+            "variants": [
+                "Charles Darwin - Theory of Evolution",
+                "Isaac Newton - Laws of Motion",
+                "Albert Einstein - Theory of Relativity",
+                "Louis Pasteur - Germ Theory"
+            ],
+            "correctVariantIndex": 0
+        },
+        {
+            "title": "Which of the following are considered macromolecules?",
+            "variants": [
+                "Carbohydrates",
+                "Proteins",
+                "Lipids",
+                "Nucleic Acids",
+                "All of the above"
+            ],
+            "correctVariantIndex": 4
+        },
+        {
+            "title": "What is the role of enzymes in biochemical reactions?",
+            "variants": [
+                "Increase activation energy",
+                "Decrease activation energy",
+                "Change the equilibrium of the reaction",
+                "None of the above"
+            ],
+            "correctVariantIndex": 1
+        }
+    ]
+}
